@@ -1,5 +1,5 @@
 # Ethan Abbott
-### Aspiring Data Scientist
+#### Aspiring Data Scientist
 
 ## About Me
 I'm a senior at Brigham Young University - Idaho studying data science. I love seeing the world around me quantified in order to detect patterns and improve performance. I love sports and thoroughly seeing greatness described with a number. However, I still love to learn about other parts of the world around me.
