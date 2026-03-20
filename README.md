@@ -11,9 +11,15 @@ Myself and a team of other data science students are using a Python package call
 
 # Skills
 <details>
-<summary>Example</summary>
-<ul><li>This dropdown contains</li>
-<li>a list!</li></ul>
+<summary>Python</summary>
+<ul>
+  <li>Pandas</li>
+  <li>NumPy</li>
+  <li>Spark</li>
+  <li>Lets-Plot</li>
+  <li>scikitlearn</li>
+  <li>NumPy</li>
+</ul>
 </details>
 
 
