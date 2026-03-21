@@ -10,7 +10,7 @@ Whether it's climbing Jacob's Ladder, practicing trumpet, or learning Spanish, I
 ## What I'm Currently Working On
 Myself and a team of other data science students are using a Python package called FastAPI to create an API that will streamline the property management of the school's music department. Rather than performing operations within one software and manually logging them with an oversized spreadsheet, that data will now be stored in a database and queried using this API. 
 
-# Skills
+## Skills
 <details>
 <summary>Python</summary>
 <ul>
@@ -49,12 +49,19 @@ Myself and a team of other data science students are using a Python package call
 </details>
 
 <details>
-<summary>Cloud Software</summary>
+<summary>Software</summary>
 <ul>
   <li>DataBricks</li>
   <li>GCP</li>
   <li>Docker</li>
+  <li>Git</li>
 </ul>
 </details>
+
+## Contact Me
+[LinkedIn](https://www.linkedin.com/in/ethan-abbott-3a437a210/)
+[Handshake](https://byui.joinhandshake.com/profiles/qv7qt5)
+[Email](mailto:ethan.abbott10@outlook.com)
+
 
 
