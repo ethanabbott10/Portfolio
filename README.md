@@ -33,8 +33,10 @@ Myself and a team of other data science students are using a Python package call
 </ul>
 </details>
 
+<details>
 <summary>SQL</summary>
-
+<details>
+  
 <details>
 <summary>Microsoft</summary>
 <ul>
