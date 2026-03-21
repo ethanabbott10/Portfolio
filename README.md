@@ -20,5 +20,15 @@ Myself and a team of other data science students are using a Python package call
   <li>Lets-Plot</li>
   <li>scikitlearn</li>
   <li>NumPy</li>
+  <li>Polars</li>
+</ul>
+</details>
+
+<details>
+<summary>R</summary>
+<ul>
+  <li>tidyverse</li>
+  <li>ggplot</li>
+  <li>regression analysis</li>
 </ul>
 </details>
