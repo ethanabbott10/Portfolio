@@ -35,7 +35,7 @@ Myself and a team of other data science students are using a Python package call
 
 <details>
 <summary>SQL</summary>
-<details>
+</details>
   
 <details>
 <summary>Microsoft</summary>
