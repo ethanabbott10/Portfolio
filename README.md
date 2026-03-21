@@ -32,3 +32,29 @@ Myself and a team of other data science students are using a Python package call
   <li>regression analysis</li>
 </ul>
 </details>
+
+<details>
+<summary>SQL</summary>
+</details>
+
+<details>
+<summary>Microsoft</summary>
+<ul>
+  <li>PowerBI</li>
+  <li>DAX</li>
+  <li>Excel</li>
+  <li>PowerPoint</li>
+  <li>Word</li>
+</ul>
+</details>
+
+<details>
+<summary>Cloud Software</summary>
+<ul>
+  <li>DataBricks</li>
+  <li>GCP</li>
+  <li>Docker</li>
+</ul>
+</details>
+
+
